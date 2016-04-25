@@ -1,0 +1,1 @@
+print("Omochimochimochi Yukimi Daisuke \n mi_24  \"Iizo~~~\" \n Daisuke \"UmaUma\"")
